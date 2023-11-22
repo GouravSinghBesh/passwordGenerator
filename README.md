@@ -5,4 +5,4 @@
 ![Screenshot 2023-11-22 123412](https://github.com/GouravSinghBesh/passwordGenerator/assets/110739751/0ac0e771-3d1c-4550-a9d1-554ccaa8ac87)
 
 
-<p>You can check it out with this link <a href="password-generator-rodhc0qig-gouravsinghbesh.vercel.app">password-generator-rodhc0qig-gouravsinghbesh.vercel.app</a>)<p/>
+<p>You can check it out with this link <a href="password-generator-rodhc0qig-gouravsinghbesh.vercel.app">click here</a>)<p/>
